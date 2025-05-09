@@ -20,7 +20,7 @@ Estou estudando *Análise e Desenvolvimento de Sistemas* e focado em aprender e 
 - Desenvolvimento de projetos próprios
 
 ## 🌟 Projetos em destaque:
-- [Sistema de Conferência de Bens](https://github.com/DaviVDantas) — Sistema para controle patrimonial usando Node.js e SQLite
+- [Sistema de Controle de estoque](https://github.com/DaviVDantas) — Sistema para controle patrimonial usando Python e SQLite
 - [Em breve: Painel Almoxarifado Qlik Sense](https://github.com/DaviVDantas) — Controle de estoque com dashboards
 
 ## 📫 Contato
