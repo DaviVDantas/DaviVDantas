@@ -25,7 +25,7 @@ Estou estudando *Análise e Desenvolvimento de Sistemas* e focado em aprender e 
 
 ## 📫 Contato
 - ✉️ Email: [davidantas808@gmail.com](mailto:davidantas808@gmail.com)
-- 💼 LinkedIn: [Meu Perfil no LinkedIn](https://www.linkedin.com/me?trk=p_mwlite_feed-secondary_nav)
+- 💼 LinkedIn: [Meu Perfil no LinkedIn](https://www.linkedin.com/in/davi-dantas-08385a319/)
 
 ---
 
